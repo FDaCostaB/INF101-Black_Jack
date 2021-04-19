@@ -1,4 +1,4 @@
-# INF101-Black_Jack
+# INF101-Black_Jack (12/2018)
 A playable Black Jack with GUI (tkinter), AI and analysis of AI
 
 Libraries needed : tkinter and matplotlib
